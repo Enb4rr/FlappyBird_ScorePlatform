@@ -25,7 +25,7 @@ A web-based game portal for Flappy Bird built with React, Firebase Authenticatio
 
 ### 1. Clone the repository
 
-Clone: https://github.com/Enb4rr/FlappyBird_ScorePlatform
+Clone: https://github.com/Enb4rr/FlappyBirdScorePlatform
 
 ### 2. Install dependencies
 
