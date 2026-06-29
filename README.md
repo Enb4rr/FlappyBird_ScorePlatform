@@ -1,13 +1,13 @@
-# SponderBird - Game Portal + Telemetry System
+# Flappy Bird - Game Portal + Telemetry System
 
 ---
 
-### Made by PG29 Julian R
+### Made by Julian Rosero
 ### Last Updated 4/28/2026
 
 ---
 
-A web-based game portal for SponderBird built with React, Firebase Authentication, and Firestore.
+A web-based game portal for Flappy Bird built with React, Firebase Authentication, and Firestore (This is a purely educational project).
 
 ## Features
 
@@ -25,7 +25,7 @@ A web-based game portal for SponderBird built with React, Firebase Authenticatio
 
 ### 1. Clone the repository
 
-Clone: https://github.com/Enb4rr/CloudComputing_SponderBird
+Clone: https://github.com/Enb4rr/FlappyBird_ScorePlatform
 
 ### 2. Install dependencies
 
@@ -55,7 +55,7 @@ npm run dev
 | Role   | Email | Password       |
 |--------|-------|----------------|
 | Player | raf@ramenday.com | concussion1234 |
-| Admin  | spencer@bettleball.com  | gonk1234       |
+| Admin  | spencer@bettleball.com  | gonk1234 |
 
 ---
 
@@ -70,8 +70,3 @@ To clear mock data:
 node scripts/ingestScores.js --clear
 
 ---
-
-## Notes
-
-- Had to keep line 4 at 'firebase.js', for some reason when removed the project stops working (happened in class, never found a solution)
-- Reused a lot of the provided styles, class naming may not be 100% consistent
